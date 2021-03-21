@@ -1,5 +1,6 @@
 # NYCU_Software_Testing_2021_Lab_3
-[![Build Status](https://www.travis-ci.com/nian6324/I092517.svg?branch=main)](https://www.travis-ci.com/nian6324/I092517)
+
+[![Build Status](https://www.travis-ci.com/nian6324/I092517.svg?branch=master)](https://www.travis-ci.com/nian6324/I092517)
 
 **Success screenshot**
 
