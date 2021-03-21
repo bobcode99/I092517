@@ -18,11 +18,10 @@ public class PriorityQueueTest {
                 arguments(new int[] {-9, 6, 8 ,-7}, new int[] {-9, -7, 6, 8}),
                 arguments(new int[] {3, 9, 4, 3}, new int[] {3, 3, 4, 9}),
                 arguments(new int[] {1, 7, 3, 6}, new int[] {1, 3, 6, 7}),
-                arguments(new int[] {10, 15, 30, 20, 5}, new int[] {5, 10, 15, 20, 30})
-                /*
+                arguments(new int[] {10, 15, 30, 20, 5}, new int[] {5, 10, 15, 20, 30}),
                 arguments(new int[] {5, 8, 2, 3}, new int[] {2, 3, 8, 5}),
                 arguments(new int[] {-10, 15, -30, -20, -5}, new int[] {5, 10, 30, 20, 15})
-                 */
+
 
         );
     }
